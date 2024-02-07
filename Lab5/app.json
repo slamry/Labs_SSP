@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "lab5_ssp",
+    "slug": "lab5_ssp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "lab5_ssp"
+}
